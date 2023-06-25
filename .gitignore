@@ -160,3 +160,9 @@ cython_debug/
 #.idea/
 exp.md
 not_to_push/
+
+# Optuna databases
+*.db
+
+# Archives
+*.zip
