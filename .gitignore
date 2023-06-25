@@ -163,8 +163,10 @@ not_to_push/ex3_q2.md
 exp.md
 not_to_push/
 
-# Optuna databases
-*.db
-
 # Archives
 *.zip
+# Optuna databases
+*.db
+not_to_push
+not_to_push/ex3_q2.md
+not_to_push/exp.md
