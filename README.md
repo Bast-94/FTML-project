@@ -1,5 +1,5 @@
 # FTML-project
-Projet de Fondamentaux Théoriques du Machine Learning par [François Souilier](https://github.com/sinansoulier), [Charles-André Arsenec](https://github.com/Ekliipce), [Raphaël Bennaïm](https://github.com/raphrb2)  et [Bastien Hoorelbeke](https://github.com/Bast-94).
+Projet de Fondamentaux Théoriques du Machine Learning encadré par [Nicolas LeHir](https://github.com/nlehir) par [François Souilier](https://github.com/sinansoulier), [Charles-André Arsenec](https://github.com/Ekliipce), [Raphaël Bennaïm](https://github.com/raphrb2)  et [Bastien Hoorelbeke](https://github.com/Bast-94).
 
 ## Contenu du projet
 [Sujet](./FTML%20Project%20description.pdf)
